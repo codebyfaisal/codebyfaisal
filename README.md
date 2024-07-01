@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about Programming, and I love worki
 - 🔭 I’m currently working on Web Development.
 - 💬 Ask me about Web Development or maybe Crypto
 - 😄 Pronouns: He
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/codebyfaisal/) or [Gmail](mailto:digital.1faisal@gmail.com) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/codebyfaisal/) or [Gmail](mailto:codebyfaisal@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
