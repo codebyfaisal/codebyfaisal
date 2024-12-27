@@ -1,5 +1,5 @@
 
-<img align="center" src="https://media.licdn.com/dms/image/v2/D5616AQELoNguPEs1Cw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733501524812?e=1738800000&v=beta&t=4qu5eL227I1FJDCxXYJQeza-7rmJshKh6SsBnt98bz0" alt="codebyfaisal"/>
+<img align="center" src="https://media.licdn.com/dms/image/v2/D5616AQHr4czNboKtGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735274025692?e=1740614400&v=beta&t=rA2q9o9XZmqBo4iOn6lhoawtbUlxcjPHsDIQi2rjVkA" alt="codebyfaisal"/>
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
