@@ -10,7 +10,7 @@
 <h3 align="left">🚀 About Me</h3>
 <ul>
   <li>🔭 I’m currently working on <strong>Web Development</strong>.</li>
-  <li>🌱 I’m currently learning <strong>React.js</strong></li>
+  <li>🌱 I’m currently learning <strong>Node.js</strong></li>
   <li>💬 Ask me about <strong>Web Development</strong></li>
   <li>😄 Pronouns: <strong>He</strong></li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/codebyfaisal/">LinkedIn</a> or <a href="mailto:codebyfaisal@gmail.com">Gmail</a></li>
